@@ -1,0 +1,18 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+button {
+  font-family: 'Varela Round', sans-serif;
+}
+input {
+  font-family: 'Varela Round', sans-serif;
+}
+
+.input {
+  max-width: auto;
+}
+
+.box {
+  margin-top: 2rem;
+  max-width: 100%;
+}
